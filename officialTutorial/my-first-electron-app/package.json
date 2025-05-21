@@ -1,0 +1,21 @@
+{
+  "name": "my-first-electron-app",
+  "version": "0.0.1",
+  "description": "my first electronJS app made by following the official electronJS tutorial.",
+  "keywords": [
+    "tutorial",
+    "first",
+    "app"
+  ],
+  "license": "MIT",
+  "author": "Hasan Al Saeedi",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "TEST": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^36.2.1"
+  }
+}
