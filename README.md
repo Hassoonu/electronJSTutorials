@@ -9,5 +9,5 @@ So far, I've been looking at some YT tutorials and the official ElectronJS websi
 After going through these sources, I'm hoping to create my own personal interface for the F1 WDC project I have which should be in another one of my repos.
 
 # What I've been looking at/Tutorials:
-* https://www.electronjs.org/docs/latest/tutorial/tutorial-prerequisites
+* Official ElectronJS website Tutorial: https://www.electronjs.org/docs/latest/tutorial/tutorial-prerequisites
 * Codevolution ElectronJS Tutorial Series: https://www.youtube.com/playlist?list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW
