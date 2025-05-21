@@ -17,4 +17,4 @@ After going through these sources, I'm hoping to create my own personal interfac
 * 05/19/25 - Had some issues setting up Github, so lost about an hour or two's work. Finished setting up Github repo, will start working on tutorial content later.
   
 * 05/21/25 - Created this README and devlog, plan to keep track of progress.
-** Fixed .gitignore issue, my file was using the wrong UTF encoding.
+  * Fixed .gitignore issue, my file was using the wrong UTF encoding.
