@@ -18,3 +18,14 @@ After going through these sources, I'm hoping to create my own personal interfac
   
 * 05/21/25 - Created this README and devlog, plan to keep track of progress.
   * Fixed .gitignore issue, my file was using the wrong UTF encoding.
+  * Reached page 2 of the tutorial, "Building your First App"
+  * Created first browser window, learned about vscode debugging with ElectronJS
+  * Found out about Chrome DevTools, set it up for future reading/learning.
+
+* 05/25/25 - Looked more into IPC between the main process and the window renderers.
+  * Completed "Using Preload Scripts" section of official tutorial.
+  * Learned more about the uses of ElectronJS and customizable features. Ex: Dark Mode or Deep Linking. Will be actively practicing them later.
+  * Learned about packaging code and Electron Forge, also about signing code. Want to go deeper into the subject, however I know the basics for now.
+  * Read over the Publishing and Updating section of the tutorial. Will not be focusing on this as I still want to be more familiar with the packaging aspects.
+    * More sources for Packaging: https://www.electronjs.org/docs/latest/tutorial/application-distribution
+    * More sources for IPC: https://www.electronjs.org/docs/latest/tutorial/ipc
