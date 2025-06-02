@@ -30,3 +30,5 @@ After going through these sources, I'm hoping to create my own personal interfac
     * More sources for Packaging: https://www.electronjs.org/docs/latest/tutorial/application-distribution
     * More sources for IPC: https://www.electronjs.org/docs/latest/tutorial/ipc
   * Since I finished the tutorial, I'd like to do more examples from the ElectronJS website, since some of these effects seem very interesting to learn. The security practices and many of the other content also seems interesting but I'd also like to move on to the other tutorials and also use this new knowledge for my personal projects.
+
+* 06/02/25 - Pausing the tutorials here since I want to try putting what I learned into the F1 WDC Tracker project. Be right back.
